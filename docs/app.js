@@ -17,7 +17,6 @@ function addItem() {
     console.log(description);
 
     count += 1;
-efefve
 
     items.push(`<tr><th>${count}</th><td>${duration}</td><td>${description}</td></tr>`);
 
